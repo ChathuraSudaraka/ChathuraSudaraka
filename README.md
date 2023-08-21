@@ -198,7 +198,7 @@ Stay composed and keep coding on! 😄🔥
 
 ----
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=7oSkaaa&theme=tokyonight_duo" alt="7oSkaaa" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=7oSkaaa&theme=tokyonight_duo" alt="Chathura" /></p>
 
 </details>
   
