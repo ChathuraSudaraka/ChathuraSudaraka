@@ -36,7 +36,7 @@
 📫 If you'd like, let's connect on GitHub and embark on this incredible journey together! 🚀💻
 
 Stay composed and keep coding on! 😄🔥
-  <br>
+  <br><br>
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/competitive_programming_profile.png?raw=true" width=40> </picture> My Competitive Programming Profiles
 
