@@ -24,7 +24,7 @@
 
 <br><br>
 
-👋 Hi bro! I'm Chathura Sudaraka, an enthusiastic software engineering student at JIAT. 🎓💻
+👋 Hi bro! I'm Chathura Sudaraka, an enthusiastic software engineering student at JIAT. 🎓
 
 🌱 I'm in a constant state of growth and learning within the expansive realm of technology. With every line of code I write, my goal is to create a positive impact. 💡✨
 
