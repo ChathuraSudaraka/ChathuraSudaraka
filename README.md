@@ -7,9 +7,9 @@
 
 <p align="center"> 
 	<img src="https://komarev.com/ghpvc/?username=7oSkaaa&label=Profile%20views&color=0047AB&style=plastic?" alt="7oSkaaa" height=25px, width=160px/> 
-		<a href = "#" target="_blank">
+<!-- 		<a href = "#" target="_blank">
 			<img src="https://aktive.tk/egypt/7oSkaaa?color=red" alt="Most Active Users" target="_blank" height=25px, width=250px/> 
-		</a>
+		</a> -->
 	<!--
 	<a href = "https://commits.top/srilanka.html" target="_blank">
 		<img src="" alt="7oSkaaa" target="_blank" height=25px, width=250px/> 
