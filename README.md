@@ -3,20 +3,6 @@
   <a><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer+@eversoft.lk;Software+Engineer+Student;Competitive+Programmer;2x+ACPC+Finalist;Expert+on+Codeforces;Division+1+on+Codechef+(5+Stars);4+Kyu+on+Atcoder;Always+learning+new+things"></a>
 </p>
 
-<br>
-
-<p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=7oSkaaa&label=Profile%20views&color=0047AB&style=plastic?" alt="7oSkaaa" height=25px, width=160px/> 
-<!-- 		<a href = "#" target="_blank">
-			<img src="https://aktive.tk/egypt/7oSkaaa?color=red" alt="Most Active Users" target="_blank" height=25px, width=250px/> 
-		</a> -->
-	<!--
-	<a href = "https://commits.top/srilanka.html" target="_blank">
-		<img src="" alt="7oSkaaa" target="_blank" height=25px, width=250px/> 
-	</a>
-	-->
-</p>
-
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
@@ -35,19 +21,7 @@
 
 📫 If you'd like, let's connect on GitHub and embark on this incredible journey together! 🚀💻
 
-Stay composed and keep coding on! 😄🔥
-  <br><br>
-
-## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/competitive_programming_profile.png?raw=true" width=40> </picture> My Competitive Programming Profiles
-
-<p align="center">
-  <a href="#"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Code Forces"/></a>
-	<a href="#"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode"/></a>
-	<a href="#"><img src="https://i.ibb.co/Q9WSjDB/logo.png" alt="AtCoder" width = 60px/></a>
-	<a href="#"><img src="https://img.icons8.com/color/50/000000/codechef.png" alt="Code Chef"/></a>
-	<a href="#"><img src="https://i.ibb.co/6J0r7rW/Daco-5610880.png" alt="ICPC Global" width = 60px /></a>     
-	<a href="#" ><img src="https://i.ibb.co/1MRppTC/codingame-1.png" alt="Codingame" width="100" height="50">
-</p>
+<br></br>
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
 
@@ -189,45 +163,9 @@ Stay composed and keep coding on! 😄🔥
 
 <p align = "center">
 	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
-</p>
+</p>	
 
-## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px> </picture> Github Stats
-
-<details><summary><h3> 🔥 Streak Stats</h3></summary>
-
-----
-
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=7oSkaaa&theme=tokyonight_duo" alt="Chathura" /></p>
-
-</details>
-  
-<details><summary><h3>💻 GitHub Profile Stats</h3></summary>
-
----
-
-<p align="center">
-    <a href="#">
-	    <img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=7oSkaaa&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=7oSkaaa&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="7oSkaaa" height="230px"/>
-<br/>
-
-<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-  </p>
-</details>
-
-<details><summary> <h3> :trophy: Git profile Trophies </h3></summary>
-
----
-
-<p align="center"> <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=7oskaaa&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="7oskaaa" /></a> </p>
-
-
-</details>
-	
-
-
-</br></br>
+</br>
 
 ## 🐍 A Snake Eating my Contributions Graph
 
