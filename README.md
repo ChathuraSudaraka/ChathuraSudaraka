@@ -8,18 +8,15 @@
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 <br><br>
-
-👋 Hi bro! I'm Chathura Sudaraka, an enthusiastic software engineering student at JIAT. 🎓
-
-🌱 I'm in a constant state of growth and learning within the expansive realm of technology. With every line of code I write, my goal is to create a positive impact. 💡✨
-
-🔭 Presently, I'm delving into various domains such as web development, data science, and software architecture. I take pleasure in unraveling intricate problems and transforming concepts into reality. 💪🌐
-
-💡 Being an eternal student, I deeply value the potential of open-source projects and collaboration. I'm always eager to contribute to meaningful endeavors and collaborate with fellow developers across the globe. 🌍💙
-
-⚡️ Beyond coding, you might find me immersing myself in the beauty of nature 🏞️, savoring a delightful cup of tea ☕, or getting lost in the pages of a captivating book 📚. I'm also passionate about exploring new places and embracing diverse cultures. 🌍✈️
-
-📫 If you'd like, let's connect on GitHub and embark on this incredible journey together! 🚀💻
+<ul>
+	<li>🔭 Working at Eversoft as a Fullstack Developer, tackling projects across the stack.</li>
+	<li>🌱 Currently Exploring: Deepening my knowledge in Nuxt JS, Express JS, and Bun JS.</li>
+	<li>📝 Blogging Regularly: Sharing my experiences and insights through articles on my blog.</li>
+	<li>💬 Expertise: If you need advice or tips on Vue JS or Laravel, feel free to reach out!</li>
+	<li>🤝 Available for Freelance: Open to exciting freelance opportunities.</li>
+	<li>📫 Get in Touch: You can contact me at tharindunimesh@eversoft.lk.</li>
+	<li>📄 My Resume: For more about my background, check out my Resume.</li>
+</ul>
 
 <br></br>
 
