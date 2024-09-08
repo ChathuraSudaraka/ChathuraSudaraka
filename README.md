@@ -19,9 +19,9 @@
 	<br/>
 	<li>🤝 Available for Freelance: Open to exciting freelance opportunities.</li>
 	<br/>
-	<li>📫 Get in Touch: You can contact me at chathurasudaraka@eversoft.lk.</li>
+	<li>📫 Get in Touch: You can contact me at <a href="mailto:chathurasudaraka@eversoft.lk" style="color:#5F9EA0;">chathurasudaraka@eversoft.lk</a>.</li>
 	<br/>
-	<li>📄 My Resume: For more about my background, <a href="https://chathura.eversoft.lk/">check out my Resume.</a></li>
+	<li>📄 My Resume: For more about my background, <a href="https://chathura.eversoft.lk/">check out my Resume</a>.</li>
 </ul>
 
 <br></br>
