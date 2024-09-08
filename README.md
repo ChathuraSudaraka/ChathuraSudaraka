@@ -10,12 +10,18 @@
 <br><br>
 <ul>
 	<li>🔭 Working at Eversoft as a Fullstack Developer, tackling projects across the stack.</li>
+	<br/>
 	<li>🌱 Currently Exploring: Deepening my knowledge in Nuxt JS, Express JS, and Bun JS.</li>
+	<br/>
 	<li>📝 Blogging Regularly: Sharing my experiences and insights through articles on my blog.</li>
-	<li>💬 Expertise: If you need advice or tips on Vue JS or Laravel, feel free to reach out!</li>
+	<br/>
+	<li>💬 Expertise: If you need advice or tips on React JS or Laravel, feel free to reach out!</li>
+	<br/>
 	<li>🤝 Available for Freelance: Open to exciting freelance opportunities.</li>
-	<li>📫 Get in Touch: You can contact me at tharindunimesh@eversoft.lk.</li>
-	<li>📄 My Resume: For more about my background, check out my Resume.</li>
+	<br/>
+	<li>📫 Get in Touch: You can contact me at chathurasudaraka@eversoft.lk.</li>
+	<br/>
+	<li>📄 My Resume: For more about my background, <a href="https://chathura.eversoft.lk/">check out my Resume.</a></li>
 </ul>
 
 <br></br>
